@@ -1,0 +1,18 @@
+# Virtual environment
+/env/
+# Ignore environment configuration file
+/pyenvconfig.sh
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# System and temporary files
+.DS_Store
+*.log
